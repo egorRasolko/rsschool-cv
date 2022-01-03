@@ -20,11 +20,11 @@ I love to communicate with people and learn something new, I can work in a team 
 ***
 ### Code example
 ***
-    function sum(a, b) {
-     return a + b;
-    }
+     `function sum(a, b) {
+        return a + b;
+        }
     let result = sum(1, 2);
-    alert( result );
+    alert( result );`
 ***
 ### Education
 ***
